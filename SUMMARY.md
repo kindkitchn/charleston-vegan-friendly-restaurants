@@ -5,4 +5,5 @@
 * Nutrition
 * Zero Waste Home
 * Mind / Spirit
+* Healing with Plants
 
