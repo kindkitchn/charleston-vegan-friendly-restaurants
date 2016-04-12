@@ -7,4 +7,5 @@
 * Mind / Spirit
 * Healing with Plants
 * Resources
+* Recipes
 
