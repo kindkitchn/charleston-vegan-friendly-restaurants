@@ -5,7 +5,7 @@
 * [Nutrition](nutrition.md)
 * [Zero Waste Home](zero_waste_home.md)
 * [Mind / Spirit](mind__spirit.md)
-* Healing with Plants
+* [Healing with Plants](healing_with_plants.md)
 * Resources
 * Recipes
 
