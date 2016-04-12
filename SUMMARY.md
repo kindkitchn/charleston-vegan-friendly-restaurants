@@ -7,8 +7,8 @@
 * [Mind / Spirit](mind__spirit.md)
 * [Healing with Plants](healing_with_plants.md)
 * [Resources](resources.md)
+* [Travel](travel.md)
 * [Recipes](recipes.md)
 * Beauty
 * Feminine Health
-* [Travel](travel.md)
 
