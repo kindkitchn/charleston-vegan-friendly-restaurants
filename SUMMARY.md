@@ -6,6 +6,6 @@
 * [Zero Waste Home](zero_waste_home.md)
 * [Mind / Spirit](mind__spirit.md)
 * [Healing with Plants](healing_with_plants.md)
-* Resources
+* [Resources](resources.md)
 * Recipes
 
