@@ -7,5 +7,5 @@
 * [Mind / Spirit](mind__spirit.md)
 * [Healing with Plants](healing_with_plants.md)
 * [Resources](resources.md)
-* Recipes
+* [Recipes](recipes.md)
 
