@@ -8,4 +8,5 @@
 * [Healing with Plants](healing_with_plants.md)
 * [Resources](resources.md)
 * [Recipes](recipes.md)
+* Beauty
 
