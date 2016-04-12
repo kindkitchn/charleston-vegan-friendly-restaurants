@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
 * [Nutrition](nutrition.md)
+* Home
 * [Zero Waste Home](zero_waste_home.md)
 * [Mind / Spirit](mind__spirit.md)
 * [Healing with Plants](healing_with_plants.md)
@@ -11,5 +12,4 @@
 * [Recipes](recipes.md)
 * Beauty
 * Feminine Health
-* Home
 
