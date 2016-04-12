@@ -12,6 +12,6 @@
 * [Travel](travel.md)
 * [Recipes](recipes.md)
 * Beauty
-* Feminine Health
+* [Feminine Health](feminine_health.md)
 * [About Kind Kitchn](about_kind_kitchn.md)
 
