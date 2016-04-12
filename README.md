@@ -1,3 +1,3 @@
 # Plant-Based Living
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+![](Stocksy_txp7a0e3bebjob000_Medium_672241.jpg)
