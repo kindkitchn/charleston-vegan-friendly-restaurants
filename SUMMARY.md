@@ -10,5 +10,5 @@
 * [Recipes](recipes.md)
 * Beauty
 * Feminine Health
-* Travel
+* [Travel](travel.md)
 
