@@ -4,7 +4,7 @@
 * [First Chapter](chapter1.md)
 * [Nutrition](nutrition.md)
 * [Zero Waste Home](zero_waste_home.md)
-* Mind / Spirit
+* [Mind / Spirit](mind__spirit.md)
 * Healing with Plants
 * Resources
 * Recipes
