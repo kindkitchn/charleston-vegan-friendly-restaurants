@@ -13,5 +13,5 @@
 * [Recipes](recipes.md)
 * Beauty
 * Feminine Health
-* About Kind Kitchn
+* [About Kind Kitchn](about_kind_kitchn.md)
 
