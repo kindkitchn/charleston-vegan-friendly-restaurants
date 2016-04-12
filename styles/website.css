@@ -2,6 +2,8 @@
 
 <link href='https://fonts.googleapis.com/css?family=Raleway:700|Crimson+Text' rel='stylesheet' type='text/css'>
 
+.book.font-family-1 {font-family: 'Crimson Text', serif;}
+
 Body { font-family: 'Crimson Text', serif;}
 
 h1, h2, h3 {font-family: 'Raleway', sans-serif;}
