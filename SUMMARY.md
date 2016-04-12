@@ -4,4 +4,5 @@
 * [First Chapter](chapter1.md)
 * Nutrition
 * Zero Waste Home
+* Mind / Spirit
 
