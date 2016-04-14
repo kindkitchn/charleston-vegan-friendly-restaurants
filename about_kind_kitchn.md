@@ -1,9 +1,6 @@
-# About Kind Kitchn
+# Meet Maggie Griner
 
-Kind Kitchn is a guide for plant-based, kind living, created by an ordinary couple with a passion for living well, and natural talent for thorough research.
-
-
-### Meet Maggie Griner
+![](maggie-xsmall.jpg)
 
 My love for quality ingredients began in college when my favorite stress relieving activity became spending time in grocery stores and farmer’s markets. Through a demanding schedule as a collegiate golfer and student, cooking became my outlet for relaxation and by minoring in nutrition, I learned how to detox and destress with healthy food. 
 
@@ -14,9 +11,5 @@ Alongside my love for food, I have also spent the last 10 years enjoying my care
 I truly enjoy digital marketing and I'm inspired by the positive power of digital content for spreading positivity and love. I am so excited to begin blending my passion for designing digital content with my love for kind ingredients through Kind Kitchn.
 
 Please do not hesitate to reach out if you have any questions or just want to connect. I live in Charleston, South Carolina with the love of my life and my husband, Ben Griner. 
-
-### Meet Ben Griner
-
-Coming soon ;)
 
 
