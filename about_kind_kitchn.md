@@ -1,7 +1,7 @@
 # About Kind Kitchn
 
 
-Kind Kitchn will bring you stories, recipes and resources, focused on whole, plant-based food, made with kind  ingredients. When we choose kind ingredients, we create space, health, love and healing for our bodies, minds and the planet. 
+Kind Kitchn is a guide for plant-based, kind living, created by an ordinary couple with a passion for living well, and natural talent for thorough research.
 
 
 ### Meet Maggie Griner
