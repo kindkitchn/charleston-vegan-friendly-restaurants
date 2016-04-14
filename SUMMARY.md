@@ -12,7 +12,6 @@
    * Books
    * Podcasts
    * Youtube Channels
-   * People to Follow
 * [Travel](travel.md)
 * [Recipes](recipes.md)
 * [Beauty](beauty.md)
