@@ -11,6 +11,7 @@
 * [Resources](resources.md)
    * Books
    * Podcasts
+   * Youtube Channels
 * [Travel](travel.md)
 * [Recipes](recipes.md)
 * [Beauty](beauty.md)
