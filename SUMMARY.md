@@ -10,7 +10,7 @@
 * [Healing](healing_with_plants.md)
 * [Resources](resources.md)
    * [People](people.md)
-   * Books
+   * [Books](books.md)
    * Podcasts
    * Youtube Channels
 * [Travel](travel.md)
