@@ -1,9 +1,1 @@
 /* CSS for website */
-
-@import url(https://fonts.googleapis.com/css?family=Raleway:700|Crimson+Text);
-
-.book.font-family-1 {font-family: 'Crimson Text', serif;}
-
-body { font-family: 'Crimson Text', serif; font-size: 1.5em;}
-
-h1, h2, h3 {font-family: 'Raleway', sans-serif;}
