@@ -12,7 +12,7 @@
    * [People](people.md)
    * [Books](books.md)
    * [Podcasts](podcasts.md)
-   * Youtube Channels
+   * [Youtube Channels](youtube_channels.md)
 * [Travel](travel.md)
 * [Recipes](recipes.md)
 * [Beauty](beauty.md)
