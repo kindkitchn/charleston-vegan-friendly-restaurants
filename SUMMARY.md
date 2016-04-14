@@ -9,7 +9,7 @@
 * [Mind / Spirit](mind__spirit.md)
 * [Healing](healing_with_plants.md)
 * [Resources](resources.md)
-   * People
+   * [People](people.md)
    * Books
    * Podcasts
    * Youtube Channels
