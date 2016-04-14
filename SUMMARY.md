@@ -12,6 +12,7 @@
    * Books
    * Podcasts
    * Youtube Channels
+   * People
 * [Travel](travel.md)
 * [Recipes](recipes.md)
 * [Beauty](beauty.md)
