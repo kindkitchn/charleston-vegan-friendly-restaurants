@@ -18,3 +18,8 @@ I truly enjoy digital marketing and I'm inspired by the positive power of digita
 
 Please do not hesitate to reach out if you have any questions or just want to connect. I live in Charleston, South Carolina with the love of my life and my husband, Ben Griner. 
 
+### Meet Ben Griner
+
+Coming soon ;)
+
+
