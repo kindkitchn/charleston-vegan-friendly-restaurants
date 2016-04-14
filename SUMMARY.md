@@ -9,10 +9,10 @@
 * [Mind / Spirit](mind__spirit.md)
 * [Healing](healing_with_plants.md)
 * [Resources](resources.md)
+   * People
    * Books
    * Podcasts
    * Youtube Channels
-   * People
 * [Travel](travel.md)
 * [Recipes](recipes.md)
 * [Beauty](beauty.md)
