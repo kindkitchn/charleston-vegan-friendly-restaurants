@@ -10,6 +10,7 @@
 * [Healing](healing_with_plants.md)
 * [Resources](resources.md)
    * Books
+   * Podcasts
 * [Travel](travel.md)
 * [Recipes](recipes.md)
 * [Beauty](beauty.md)
