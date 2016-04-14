@@ -13,5 +13,5 @@
 * [Recipes](recipes.md)
 * [Beauty](beauty.md)
 * [Feminine Health](feminine_health.md)
-* [About Kind Kitchn](about_kind_kitchn.md)
+* [Meet Maggie](about_kind_kitchn.md)
 
