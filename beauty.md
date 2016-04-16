@@ -1,45 +1,48 @@
 # Beauty
 
 
-Alkaline water filter on shower
+### Themes
+* Minimalism
+* Less ingredients = healthier skin and body 
+* Less ingredients = more power and understanding behind each ingredient
 
-DIY-only
-Shaving cream
-Face cleanser (DIY or try water-only)
-Face masks
-Face scrubs
-Face toner
-Hand wash \ body wash (same thing)
+### Products that I create myself
+* Shaving cream
+* Face cleanser (DIY or try water-only)
+* Face masks
+* Face scrubs
+* Face toner
+* Hand wash \ body wash (same recipe)
 
-Don’t need it at all
-No dry shampoo
-Chemical exfoliator
-No palette for eyes, no eye makeup brushes
-Liquid foundation
-Shampoo - Just water for hair washing
-Cotton swabs or rounds
-Cotton feminine care products
+### Products I don't need at all
+* Dry shampoo
+* Chemical exfoliator
+* Eye palette
+* Cotton swabs or rounds
+* Cotton feminine care products
 
-Eyes
-Use finger for application  
-Eyeliner (try brow powder)
-Brows - pencil, powder, wax
+### Eyes
+* Use finger for application  
+* Eyeliner (try brow powder)
+* Brows - pencil, powder, wax
 
-Face
-Mineral powder
-Blush
+### Makeup
+* Face
+* Mineral powder
+* Blush
 
-Lips
-Liner 
-Lipstick
-1 color gloss (use finger)
+### Lips
+* 1 Liner 
+* 1 [Lipstick](https://iliabeauty.com/products/neon-angel)
+* 1 color gloss (use finger)
 
-Natural body wash
-A bottle of your choice with a pump nozzle (you can re-use an empty body wash, or shampoo bottle)
-1 cup Liquid castille soap
-1/2 cup sweet almond oil
-25-50 drops Essential Oils of your choice (if you are unsure Lavender, Geranium, Ylang-Ylang, and Neroli are suitable for all skin types)
-(optional if non-vegan) 1/4 cup Raw Organic Honey
+### Natural body wash and hand wash
+* A bottle of your choice with a pump nozzle (you can re-use an empty body wash, or shampoo bottle)
+* 1 cup Liquid castille soap
+* 1/2 cup sweet almond oil
+* Optional: 
+  * 25-50 drops Essential Oils of your choice (if you are unsure Lavender, Geranium, Ylang-Ylang, and Neroli are suitable for all skin types)
+  * 1/4 cup raw organic honey
 
 Shampoo
 ½ cup of coconut milk
@@ -62,10 +65,15 @@ Shampoo v3
 1 part peppermint castille soap
 1 part almond oil
 10 drops tea tree oil
-This was the best blend so far, everything was good except difficult to comb through
+This was the best blend so far, everything was good except difficult to comb through 
 
-Hairspray
-Lemon 
+Ultimately, still using shampoo and conditioner. Using this brand: [Beautiful Curls](http://beautifulcurls.com/)
+
+### Sea Salt Hair Spritz
+* 2 parts rose water
+* 5-6 drops tea tree oil (any essential oil would be great here)
+* 1 teaspoon of seasalt 
+
 
 Facial cleansing oil
 A bottle of any size. (I currently use 100mL amber glass bottles)
@@ -92,6 +100,14 @@ Tea Tree Oil / or Essential Oils of your choice
 
 Fill your bottle with 1/4 parts ACV, and 3/4 parts filtered water.
 Add around 10-20 drops of tea tree oil, or others oils of your choice. Sweet orange makes for a really nice refreshing toner. 
+
+
+### Ideas I would like to try
+* Alkaline water filter on shower
+* Lemon Hairspray
+
+
+
 
 
 
