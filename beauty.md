@@ -44,7 +44,7 @@
   * 25-50 drops Essential Oils of your choice (if you are unsure Lavender, Geranium, Ylang-Ylang, and Neroli are suitable for all skin types)
   * 1/4 cup raw organic honey
 
-Shampoo
+Shampoo v1
 ½ cup of coconut milk
 ½ cup of castille soap
 1 TB vitamin E
@@ -72,26 +72,24 @@ Ultimately, still using shampoo and conditioner. Using this brand: [Beautiful Cu
 ### Sea Salt Hair Spritz
 * 2 parts rose water
 * 5-6 drops tea tree oil (any essential oil would be great here)
-* 1 teaspoon of seasalt 
+* 1 teaspoon of sea salt (I use [this brand](http://www.amazon.com/Neti-Pot-Infused-French-Atlantic/dp/B00599XUN6) in my bathroom, try it mixed with toothpaste for extra fresh breath and teeth whitening)
 
-
-Facial cleansing oil
-A bottle of any size. (I currently use 100mL amber glass bottles)
-Castor Oil
-Sweet Almond Oil or Olive Oil
-Essential Oils of your choice (optional)
+### Facial cleansing oil
+* A bottle of any size. (I currently use 100mL amber glass bottles)
+* Organic sweet almond oil
+* Essential oils of your choice (optional)
 
 Mix 2/3 part of the Sweet Almond Oil and 1/3 part Castor Oil in your bottle of choice.
 Ensure the oils are blended well.
 
-Scrub
+### Face scrub
 1 jar (approx. 100mL capacity)
 3 tblsp of Organic Ground Coffee Beans
 1 tblsp of Organic Coconut Oil
 1 tblsp of Raw Honey
 (optional) a few drops of essential oils
 
-ACV Toner
+### ACV Toner
 A bottle of your choice
 (I use a 100mL amber bottle with a spray nozzle)
 Organic Apple Cider Vinegar
