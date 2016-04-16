@@ -36,3 +36,5 @@ Probably the most concerning product that we owned was Goo Gone ([view details o
 * [Better Life Simply Floored! Natural Floor Cleaner Citrus Mint](http://www.vitacost.com/better-life-simply-floored-natural-floor-cleaner-citrus-mint-32-fl-oz)
 * [GreenShield Organic Toilet Bowl Cleaner Pine](http://www.vitacost.com/greenshield-organic-toilet-bowl-cleaner-pine-24-fl-oz-2)
 * [GreenShield Organic Bathroom Cleaner Bergamot Mint](http://www.vitacost.com/greenshield-organic-bathroom-cleaner-bergamot-mint)
+
+Hydrogen peroxide (Household cleaner / for cuts, etc)
