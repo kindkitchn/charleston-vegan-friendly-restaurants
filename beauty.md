@@ -14,7 +14,7 @@
 * Face toner
 * Hand wash \ body wash (same recipe)
 
-### Products I don't need at all
+### Products that I no longer purchase
 * Dry shampoo
 * Chemical exfoliator
 * Eye palette
