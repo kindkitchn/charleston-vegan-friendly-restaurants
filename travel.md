@@ -17,6 +17,10 @@ Most airlines allow one carry-on and a "small bag" and you can bring any food th
 * Apples & nut butter
 * [Energy balls](http://deliciouslyella.com/the-ultimate-energy-bites-vegan-gluten-free-dairy-free/)
 
+### Meals
+* Salads w/ grains
+* Gluten-free veggie sandwiches or wraps
+* Collard green veggie wrap
 
 ### Other ways to save energy
 * Aromatherapy with essential oils
@@ -27,4 +31,5 @@ Most airlines allow one carry-on and a "small bag" and you can bring any food th
 ###Oher great articles: 
 * [Oh She Glows, How to Pack Food for a Weekend Getaway](http://ohsheglows.com/2015/08/01/how-to-pack-food-for-a-weekend-away-in-an-hour-plant-based/)
 * [Running on Real Food, 10 Healthy Plant-based Snacks for Road Trips or Anytime](http://www.runningonrealfood.com/10-healthy-plant-based-snacks-for-road-trips-or-anytime/)
+* [No Meat Athlete, Eating Vegan on the Road ](http://www.nomeatathlete.com/eating-vegan-on-the-road/)
 
