@@ -1,11 +1,12 @@
 
 # Non-toxic Cleaning
 
-While browsing Netflix documentary titles on a lazy Saturday evening, I stumbled upon [The Human Experiment](https://www.youtube.com/watch?v=wYgb9gUbINk), a documentary that "lifts the veil on the shocking reality that thousands of untested chemicals are in our everyday products, our homes and inside of us".
+**Documentaries to Watch**
+* [The Human Experiment](https://www.youtube.com/watch?v=wYgb9gUbINk), a documentary that "lifts the veil on the shocking reality that thousands of untested chemicals are in our everyday products, our homes and inside of us".
 
-I proceeded to spend my entire Sunday researching every product in our house (cleaning and cosmetic), finding that most of our products had unhealthy ratings and needed to be replaced with natural, healthier alternatives.
-
-During this process, I discovered [ewg.org](ewg.org), the Environment Working Group. They have a helpful database that allows you to search for products and view its ingredients. EWG.org gives you an overall health rating for each product, as well as a rating for each ingredient in the product. Another resource that looks really helpful is [goodguide.org](http://www.goodguide.com/).
+**Resources**
+* [ewg.org](ewg.org), the Environment Working Group. They have a helpful database that allows you to search for products and view its ingredients. EWG.org gives you an overall health rating for each product, as well as a rating for each ingredient in the product. 
+* Another resource that looks really helpful is [goodguide.org](http://www.goodguide.com/).
 
 ### Environmental Working Group Resources  
 * [Environment Working Group Cosmetics Database App](http://www.ewg.org/skindeep/app/) 
@@ -16,7 +17,7 @@ During this process, I discovered [ewg.org](ewg.org), the Environment Working Gr
 
 Below are a few examples of products we *were* using and replaced with natural alternatives.
 
-### Laundry Detergent 
+### Example Swap: Laundry Detergent 
 My husband was using the Arm and Hammer Plus Oxi Clean Liquid Laundry Detergent, which received an "F" on ewg.org, citing concern for asthma/respiratory, skin Allergies & irritation, developmental & reproductive toxicity issues and a high concern for causing cancer ([view details on ewg.org](http://www.ewg.org/guides/cleaners/158-ArmHammerPlusOxiCleanLiquidDetergentHECoolBreeze)).
 
 Our new laundry detergent: [Whole Foods 365 Everyday Value 2X Concentrated Laundry Detergent, Unscented](http://www.ewg.org/guides/cleaners/5720-WholeFoods365EverydayValue2XConcentratedLaundryDetergentUnscented) ([view details on ewg.org](http://www.ewg.org/guides/cleaners/5720-WholeFoods365EverydayValue2XConcentratedLaundryDetergentUnscented))
