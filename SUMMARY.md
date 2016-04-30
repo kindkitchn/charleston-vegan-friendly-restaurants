@@ -18,5 +18,5 @@
 * [Beauty](beauty.md)
 * [Feminine Health](feminine_health.md)
 * [Meet Maggie](about_kind_kitchn.md)
-* Charleston Guide
+* [Charleston Guide](charleston.md)
 
