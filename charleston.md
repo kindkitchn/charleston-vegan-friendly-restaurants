@@ -2,7 +2,7 @@
 
 In Charleston, SC there are a growing number of restaurants with plant-based options on their menu.  Here’s a list of our favorite vegan-friendly casual restaurants. 
 
-Downtown
+**Downtown**
 * [Gnome Cafe](http://www.gnomecafe.com/)
 * [Huriyali](http://www.huriyali.com/)
 * [Co](http://www.eatatco.com/)
@@ -17,35 +17,27 @@ Downtown
   * What to order: black bean burger
 * [Lee Lee’s Hot Kitchen](http://www.leeleeshotkitchen.com/) 
 
-Daniel Island
+**Daniel Island**
 * [Laura Albert's](http://lauraalberts.com/)
 * [Vespa](http://vespapizzeria.com/)
 
-Mt. Pleasant
+**Mt. Pleasant**
 * [Blend](http://www.theblendco.com/)
-[Papa ZuZu’s](http://www.papazuzus.com/)
+* [Papa ZuZu’s](http://www.papazuzus.com/)
 
+**Multiple Locations**
 * Sesame | Park Circle, Mt. Pleasant, West Ashley
 [](http://www.sesameburgersandbeer.com/)
-
-[Taziki’s](http://tazikiscafe.com/) | Downtown, Mt. Pleasant
- 
-[Verde](http://eatatverde.com/) | Downtown, Mt. Pleasant, West Ashley
-
-[Yo Bo](http://www.yobocantinafresca.com/) | West Ashley, Park Circle
-
-[Five Loaves](http://www.fiveloavescafe.com/) | Downtown, Mt. Pleasant, Summerville
-
-[Dellz](https://www.facebook.com/Dellz-Uptown-301957166598025/) | Downtown
-
-[Mex 1](http://mex1coastalcantina.com/) | West Ashley
-What to order: Shroomer taco, Baja bowl with mushrooms, add extra guacamole and grilled onions and peppers
-
-
-* Home Team BBQ
+* [Taziki’s](http://tazikiscafe.com/) | Downtown, Mt. Pleasant
+* [Verde](http://eatatverde.com/) | Downtown, Mt. Pleasant, West Ashley
+* [Yo Bo](http://www.yobocantinafresca.com/) | West Ashley, Park Circle
+* [Five Loaves](http://www.fiveloavescafe.com/) | Downtown, Mt. Pleasant, Summerville
+* [Dellz](https://www.facebook.com/Dellz-Uptown-301957166598025/) | Downtown
+* [Mex 1](http://mex1coastalcantina.com/) | West Ashley
+  * What to order: Shroomer taco, Baja bowl with mushrooms, add extra guacamole and grilled onions and peppers
+* Home Team BBQ | Downtown, Sullivan's Island
   * What to order: mushroom & black bean quesadilla 
-
-* Basil
+* Basil | Downtown, Mount Pleasant
 
 
 
