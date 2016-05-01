@@ -2,10 +2,10 @@
 # Non-toxic Cleaning
 
 **Documentaries to Watch**
-* [The Human Experiment](https://www.youtube.com/watch?v=wYgb9gUbINk), a documentary that "lifts the veil on the shocking reality that thousands of untested chemicals are in our everyday products, our homes and inside of us".
+* [The Human Experiment](https://www.youtube.com/watch?v=wYgb9gUbINk) | A documentary that "lifts the veil on the shocking reality that thousands of untested chemicals are in our everyday products, our homes and inside of us".
 
 **Resources**
-* [ewg.org](ewg.org), the Environment Working Group. They have a helpful database that allows you to search for products and view its ingredients. EWG.org gives you an overall health rating for each product, as well as a rating for each ingredient in the product. 
+* The Environment Working Group | [ewg.org](ewg.org). They have a helpful database that allows you to search for products and view its ingredients. EWG.org gives you an overall health rating for each product, as well as a rating for each ingredient in the product. 
 * Another resource that looks really helpful is [goodguide.org](http://www.goodguide.com/).
 
 ### Environmental Working Group Resources  
