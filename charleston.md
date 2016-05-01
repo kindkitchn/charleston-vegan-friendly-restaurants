@@ -1,4 +1,7 @@
-# Charleston Vegan-Friendly Restaurants
+# Charleston Healthy City Guide
+
+
+## Vegan-friendly Restaurants 
 
 In Charleston, SC there are a growing number of restaurants with plant-based options on their menu.  Here’s a list of our favorite vegan-friendly casual restaurants. 
 
@@ -38,6 +41,10 @@ In Charleston, SC there are a growing number of restaurants with plant-based opt
 * Home Team BBQ | Downtown, Sullivan's Island
   * What to order: mushroom & black bean quesadilla 
 * Basil | Downtown, Mount Pleasant
+
+
+---
+
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=k8ru2t9anfkasi5klm3ptn3q94%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FNew_York" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
