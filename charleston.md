@@ -19,6 +19,7 @@ In Charleston, SC there are a growing number of restaurants with plant-based opt
 * Fuel
   * What to order: black bean burger
 * [Lee Lee’s Hot Kitchen](http://www.leeleeshotkitchen.com/) 
+* [Bon Banh Mi](bonbanhmi.com/)
 
 **Daniel Island**
 * [Laura Albert's](http://lauraalberts.com/)
