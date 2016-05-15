@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Why Plant-based?](chapter1.md)
 * [Nutrition](nutrition.md)
+   * Protein
 * [Home](home.md)
    * [Zero Waste Home](zero_waste_home.md)
    * [Non-Toxic Cleaning](non-toxic_cleaning.md)
