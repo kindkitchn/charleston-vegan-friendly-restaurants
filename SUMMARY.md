@@ -8,6 +8,7 @@
    * [Non-Toxic Cleaning](non-toxic_cleaning.md)
 * [Mind / Spirit](mind__spirit.md)
 * [Healing](healing_with_plants.md)
+   * Treating a Cold
 * [Resources](resources.md)
    * [People](people.md)
    * [Books](books.md)
