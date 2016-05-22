@@ -22,6 +22,7 @@ In Charleston, SC there are a growing number of restaurants with plant-based opt
 * [Bon Banh Mi](bonbanhmi.com/)
 * [Parlor Deluxe](http://parlordeluxe.com/)
   * What to order: Carrot "not" dog
+* O-Ku
 
 **Daniel Island**
 * [Laura Albert's](http://lauraalberts.com/)
