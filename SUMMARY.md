@@ -4,6 +4,7 @@
 * [Why Plant-based?](chapter1.md)
 * [Nutrition](nutrition.md)
    * [Protein](protein.md)
+   * Vegan-friendly Wines
 * [Home](home.md)
    * [Zero Waste Home](zero_waste_home.md)
    * [Non-Toxic Cleaning](non-toxic_cleaning.md)
