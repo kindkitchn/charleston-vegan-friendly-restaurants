@@ -34,6 +34,9 @@ In Charleston, SC there are a growing number of restaurants with plant-based opt
 * [Papa ZuZu’s](http://www.papazuzus.com/)
 * Whole Foods salad and hot bar
 
+**Park Circle**
+* [The Junction Kitchen and Provisions](http://www.thejunctionkitchen.com/#!menu/c18bc)
+
 **Multiple Locations**
 * Sesame | Park Circle, Mt. Pleasant, West Ashley
 [](http://www.sesameburgersandbeer.com/)
@@ -48,6 +51,7 @@ In Charleston, SC there are a growing number of restaurants with plant-based opt
   * What to order: mushroom & black bean quesadilla 
 * Basil | Downtown, Mount Pleasant
   * What to order: Red or green curry, vegetable delight stir-fry
+* [Verde](http://eatatverde.com/) | Avondale, Mount Pleasant, Long Point Road, Downtown
 
 
 ---
