@@ -32,6 +32,7 @@ In Charleston, SC there are a growing number of restaurants with plant-based opt
 **Mt. Pleasant**
 * [Blend](http://www.theblendco.com/)
 * [Papa ZuZu’s](http://www.papazuzus.com/)
+* Whole Foods salad and hot bar
 
 **Multiple Locations**
 * Sesame | Park Circle, Mt. Pleasant, West Ashley
@@ -46,6 +47,7 @@ In Charleston, SC there are a growing number of restaurants with plant-based opt
 * Home Team BBQ | Downtown, Sullivan's Island
   * What to order: mushroom & black bean quesadilla 
 * Basil | Downtown, Mount Pleasant
+  * What to order: Red or green curry, vegetable delight stir-fry
 
 
 ---
