@@ -23,6 +23,7 @@ In Charleston, SC there are a growing number of restaurants with plant-based opt
 * [Parlor Deluxe](http://parlordeluxe.com/)
   * What to order: Carrot "not" dog
 * O-Ku
+* [Feathertop](http://charleston.eater.com/2016/5/20/11719886/feathertop-menu)
 
 **Daniel Island**
 * [Laura Albert's](http://lauraalberts.com/)
