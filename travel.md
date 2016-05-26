@@ -13,9 +13,10 @@
 * [Chickpea salad](http://ohsheglows.com/2015/07/21/chickpea-salad/)
 * Apples & nut butter
 * [Energy balls](http://deliciouslyella.com/the-ultimate-energy-bites-vegan-gluten-free-dairy-free/)
+* Green juice
 
 ### Meals
-* Salads w/ grains
+* Jar salads w/ grains and chickpeas, coleslaw, tomatoes, cucumbers, lemon, seeds, cranberries
 * Gluten-free veggie sandwiches or wraps
 * Collard green veggie wrap
 
