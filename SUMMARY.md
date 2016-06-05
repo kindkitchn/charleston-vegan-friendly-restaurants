@@ -16,6 +16,7 @@
    * [Books](books.md)
    * [Podcasts](podcasts.md)
    * [Youtube Channels](youtube_channels.md)
+   * Documentaries
 * [Travel](travel.md)
 * [Recipes](recipes.md)
 * [Beauty](beauty.md)
