@@ -34,6 +34,9 @@ In Charleston, SC there are a growing number of restaurants with plant-based opt
 * [Papa ZuZu’s](http://www.papazuzus.com/)
 * Whole Foods salad and hot bar
 
+**Sullivan's Island**
+* [GoGoGreens](http://gogogreens.com/)
+
 **Park Circle**
 * [The Junction Kitchen and Provisions](http://www.thejunctionkitchen.com/#!menu/c18bc)
 
