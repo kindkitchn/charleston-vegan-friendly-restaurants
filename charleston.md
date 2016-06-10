@@ -63,7 +63,9 @@ In Charleston, SC there are a growing number of restaurants with plant-based opt
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=k8ru2t9anfkasi5klm3ptn3q94%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FNew_York" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
+## Wellness Services
 
+* http://www.lotuscharleston.com/team/
 
 
 
