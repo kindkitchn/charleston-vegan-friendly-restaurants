@@ -39,6 +39,7 @@ In Charleston, SC there are a growing number of restaurants with plant-based opt
 
 **Park Circle**
 * [The Junction Kitchen and Provisions](http://media.wix.com/ugd/36bf2f_fc907cc49fc3452fa3218e1c03d310f1.pdf)
+* [Basico](http://www.basicombrc.com/)
 
 **Multiple Locations**
 * Sesame | Park Circle, Mt. Pleasant, West Ashley
