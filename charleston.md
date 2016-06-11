@@ -13,7 +13,7 @@ In Charleston, SC there are a growing number of restaurants with plant-based opt
 * [Rarebit](http://therarebit.com/wp-content/uploads/2013/10/RAREBIT_MENU.pdf)
   * What to order: Vegetable plate or veggie burger
 * [Xiao Bao Biscuit](http://xiaobaobiscuit.com/wp-content/uploads/2012/09/XBB-Menu-FEB-2016.pdf )
-* Leon’s
+* [Leon’s](http://leonsoystershop.com/wp-content/uploads/2014/02/OnlineDinner19.pdf)
   * What to order: Siam salad
 * Marty’s Place
 * Fuel
@@ -23,7 +23,7 @@ In Charleston, SC there are a growing number of restaurants with plant-based opt
 * [Parlor Deluxe](http://parlordeluxe.com/)
   * What to order: Carrot "not" dog
 * O-Ku
-* [Feathertop](http://charleston.eater.com/2016/5/20/11719886/feathertop-menu)
+* [Feathertop](https://www.scribd.com/doc/313271775/Feathertop-Dinner-Menu#fullscreen)
 
 **Daniel Island**
 * [Laura Albert's](http://lauraalberts.com/)
@@ -38,7 +38,7 @@ In Charleston, SC there are a growing number of restaurants with plant-based opt
 * [GoGoGreens](http://gogogreens.com/)
 
 **Park Circle**
-* [The Junction Kitchen and Provisions](http://www.thejunctionkitchen.com/#!menu/c18bc)
+* [The Junction Kitchen and Provisions](http://media.wix.com/ugd/36bf2f_fc907cc49fc3452fa3218e1c03d310f1.pdf)
 
 **Multiple Locations**
 * Sesame | Park Circle, Mt. Pleasant, West Ashley
