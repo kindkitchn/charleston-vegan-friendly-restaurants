@@ -14,6 +14,8 @@
 * Apples & nut butter
 * [Energy balls](http://deliciouslyella.com/the-ultimate-energy-bites-vegan-gluten-free-dairy-free/)
 * Green juice
+* Oats in a jar
+* Collard veggie wrap
 
 ### Meals
 * Jar salads w/ grains and chickpeas, coleslaw, tomatoes, cucumbers, lemon, seeds, cranberries
