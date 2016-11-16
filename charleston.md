@@ -24,6 +24,9 @@ In Charleston, SC there are a growing number of restaurants with plant-based opt
   * What to order: Carrot "not" dog
 * O-Ku
 * [Feathertop](https://www.scribd.com/doc/313271775/Feathertop-Dinner-Menu#fullscreen)
+* [Butcher & Bee](http://butcherandbee.com/locations/charleston)
+* [Eclectic Cafe & Vinyl](http://eclecticcafeandvinyl.com/)
+* The Daily
 
 **Daniel Island**
 * [Laura Albert's](http://lauraalberts.com/)
