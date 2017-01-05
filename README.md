@@ -3,8 +3,6 @@
 ```
 
 ```
-
-
 ## Vegan-friendly Restaurants 
 
 In Charleston, SC there are a growing number of restaurants with plant-based options on their menu.  Here’s a list of our favorite vegan-friendly casual restaurants. 
@@ -73,11 +71,6 @@ In Charleston, SC there are a growing number of restaurants with plant-based opt
 ## Wellness Services
 
 * http://www.lotuscharleston.com/team/
-
-
-
-
-
 ```
 
 
