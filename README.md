@@ -1,8 +1,84 @@
-# The Veg-Curious Guide
+```
+# Charleston Healthy City Guide
+```
 
-Are you slowly but surely noticing that your friends or family members are not eating meat and wondering what hippy juice everyone is drinking? Are you depressed and denying the news that [bacon is bad for you](https://www.hsph.harvard.edu/nutritionsource/2015/11/03/report-says-eating-processed-meat-is-carcinogenic-understanding-the-findings/) and [Arnold Schwarzenegger is telling you to eat more plants](https://www.youtube.com/watch?v=xHSkahIFDF4)? Are you interested in learning about a plant-based diet, but you're not sure where to start? If so, you may be what we like to call *veg-curious* and this guide was made for you. 
+```
 
-We've outlined basic starter lists that will help you get started researching the benefits of a whole-foods, plant-based diet. What are the must-see documentaries? What cookbooks are great for home chefs who are new to vegan cooking? In our experience, personal transformation happens when we do our own research and make up our own minds. Hopefully this guide helps you kick-start your own research, as these resources made a huge impact on our lives. 
 
-We are an ordinary couple, Ben and Maggie Griner, with a passion for living well, and a natural talent for thorough research. By day, Maggie is a web designer and Ben is a software developer. By night we can be found obsessively researching plant-based living, exploring at the farmer's market, or experimenting in the kitchen. 
+## Vegan-friendly Restaurants 
+
+In Charleston, SC there are a growing number of restaurants with plant-based options on their menu.  Here’s a list of our favorite vegan-friendly casual restaurants. 
+
+**Downtown**
+* [Gnome Cafe](http://www.gnomecafe.com/)
+* [Huriyali](http://www.huriyali.com/)
+* [Co](http://www.eatatco.com/)
+* [Monza](http://www.monzapizza.com/)
+* [Rarebit](http://therarebit.com/wp-content/uploads/2013/10/RAREBIT_MENU.pdf)
+  * What to order: Vegetable plate or veggie burger
+* [Xiao Bao Biscuit](http://xiaobaobiscuit.com/wp-content/uploads/2012/09/XBB-Menu-FEB-2016.pdf )
+* [Leon’s](http://leonsoystershop.com/wp-content/uploads/2014/02/OnlineDinner19.pdf)
+  * What to order: Siam salad
+* Marty’s Place
+* Fuel
+  * What to order: black bean burger
+* [Lee Lee’s Hot Kitchen](http://www.leeleeshotkitchen.com/) 
+* [Bon Banh Mi](bonbanhmi.com/)
+* [Parlor Deluxe](http://parlordeluxe.com/)
+  * What to order: Carrot "not" dog
+* O-Ku
+* [Feathertop](https://www.scribd.com/doc/313271775/Feathertop-Dinner-Menu#fullscreen)
+* [Butcher & Bee](http://butcherandbee.com/locations/charleston)
+* [Eclectic Cafe & Vinyl](http://eclecticcafeandvinyl.com/)
+* The Daily
+
+**Daniel Island**
+* [Laura Albert's](http://lauraalberts.com/)
+* [Vespa](http://vespapizzeria.com/)
+
+**Mt. Pleasant**
+* [Blend](http://www.theblendco.com/)
+* [Papa ZuZu’s](http://www.papazuzus.com/)
+* Whole Foods salad and hot bar 
+
+**Park Circle**
+* [The Junction Kitchen and Provisions](http://media.wix.com/ugd/36bf2f_fc907cc49fc3452fa3218e1c03d310f1.pdf)
+* [Basico](http://www.basicombrc.com/)
+* Evo Pizza
+
+**Multiple Locations**
+* Sesame | Park Circle, Mt. Pleasant, West Ashley
+[](http://www.sesameburgersandbeer.com/)
+* [Taziki’s](http://tazikiscafe.com/) | Downtown, Mt. Pleasant
+* [Verde](http://eatatverde.com/) | Downtown, Mt. Pleasant, West Ashley
+* [Yo Bo](http://www.yobocantinafresca.com/) | West Ashley, Park Circle
+* [Five Loaves](http://www.fiveloavescafe.com/) | Downtown, Mt. Pleasant, Summerville
+* [Dellz](https://www.facebook.com/Dellz-Uptown-301957166598025/) | Downtown
+* [Mex 1](http://mex1coastalcantina.com/) | West Ashley
+  * What to order: Shroomer taco, Baja bowl with mushrooms, add extra guacamole and grilled onions and peppers
+* Home Team BBQ | Downtown, Sullivan's Island
+  * What to order: mushroom & black bean quesadilla 
+* Basil | Downtown, Mount Pleasant
+  * What to order: Red or green curry, vegetable delight stir-fry
+* [Verde](http://eatatverde.com/) | Avondale, Mount Pleasant, Long Point Road, Downtown
+* [GoGoGreens](http://gogogreens.com/) | Sullivan's, Mount Pleasant
+
+
+---
+
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=k8ru2t9anfkasi5klm3ptn3q94%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FNew_York" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
+## Wellness Services
+
+* http://www.lotuscharleston.com/team/
+
+
+
+
+
+```
+
+
 
